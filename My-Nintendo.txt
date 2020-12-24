@@ -64,7 +64,7 @@ bcat-list-*.cdn.nintendo.net
 service-status-*.cdn.nintendo.net
 g*-*.s.n.srv.nintendo.net
 
-//Nintendo
+#Nintendo
 nintendo.com
 nintendo.net
 nintendo.jp
@@ -98,4 +98,4 @@ nintendo.se
 nintendoswitch.com.cn
 nintendoswitch.com
 nintendoswitch.cn
-portao.nintendo.com
+potato.nintendo.com
