@@ -66,6 +66,7 @@ g*-*.s.n.srv.nintendo.net
 
 #Nintendo
 nintendo.*
+nintendo.*.*
 nintendo.com
 nintendo.net
 nintendo.jp
