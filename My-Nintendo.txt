@@ -65,6 +65,7 @@ service-status-*.cdn.nintendo.net
 g*-*.s.n.srv.nintendo.net
 
 #Nintendo
+nintendo.*
 nintendo.com
 nintendo.net
 nintendo.jp
@@ -99,7 +100,4 @@ nintendoswitch.com.cn
 nintendoswitch.com
 nintendoswitch.cn
 potato.nintendo.com
-nintendo.jp
-nintendo.com.au
-nintendods.cz
-nintendo.no
+receive-lp1.dg.srv.nintendo.net
