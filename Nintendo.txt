@@ -1,0 +1,100 @@
+#Services
+#pp Authentication; Generates the App Key (Needed to Play Online)
+aauth-*.ndas.srv.nintendo.net
+#Device Authentication; Generates the Device Key (Needed to Play Online)
+dauth-*.ndas.srv.nintendo.net
+#Get App Data
+api-*.*.srv.nintendo.net
+#Get App Data
+app-*.*.npns.srv.nintendo.net
+broker.*.npns.srv.nintendo.net
+consumer.*.npns.srv.nintendo.net
+#Social Network Share
+web-*.share.srv.nintendo.net
+assets-*.share.srv.nintendo.net
+#Log Server
+
+receive-*.*.srv.nintendo.net
+#Connection Test
+nasc.nintendowifi.net
+
+#Game Checks CERT, Gold, etc...
+#Checks the Game CERT, RetrieveGold Feature, Link Device and VirtualAccount?
+beach.hac.*.eshop.nintendo.net
+
+#Updates
+#Check for System Updates
+sun.hac.*.d4c.nintendo.net
+#Check for Updates and Check Required System Update; Needed to GameUpdates
+aqua.hac.*.d4c.nintendo.net
+#Check for Updates and Get TitleInfo; Needed to GameUpdates
+superfly.hac.*.d4c.nintendo.net
+#CDN-Download for Games/Updates; Needed to GameUpdates
+atum.hac.*.d4c.nintendo.net
+#CDN-Download for System Apps
+atumn.hac.*.d4c.nintendo.net
+#VersionList for Games
+tagaya.hac.*.eshop.nintendo.net
+#Sugar and Civil?
+pearljam.hac.*.eshop.nintendo.net
+
+#Account
+#Access to Account and eShop
+accounts.nintendo.com
+#Account Metadata (Needed to Play Online)
+api.accounts.nintendo.com
+#Account Metadata, Blocked Friends, View and Add Friends (Needed to Play Online)
+*.baas.nintendo.com
+
+#eShop
+#Access to eShop
+bugyo.hac.*.eshop.nintendo.net
+#Access to eShop and GetTickets/AccountStatus
+ecs-*.hac.shop.nintendo.net
+#Download Games/App from eShop
+pushmo.hac.*.eshop.nintendo.net
+Reg-Challenge-Unreg-RegInfo-TicketSync-AccountTransfer-SyncReg
+ias-*.hac.shop.nintendo.net
+
+#News and Content
+#News&Content Topics
+bcat-topics-*.cdn.nintendo.net
+#News&Content List
+bcat-list-*.cdn.nintendo.net
+service-status-*.cdn.nintendo.net
+g*-*.s.n.srv.nintendo.net
+
+//Nintendo
+nintendo.com
+nintendo.net
+nintendo.jp
+nintendo.co.jp
+nintendo.co.uk
+nintendo-europe.com
+nintendowifi.net
+nintendo.es
+nintendo.co.kr
+nintendo.tw
+nintendo.com.hk
+nintendo.com.au
+nintendo.co.nz
+nintendo.at
+nintendo.be
+nintendods.cz
+nintendo.dk
+nintendo.de
+nintendo.fi
+nintendo.fr
+nintendo.gr
+nintendo.hu
+nintendo.it
+nintendo.nl
+nintendo.no
+nintendo.pt
+nintendo.ru
+nintendo.co.za
+nintendo.ch
+nintendo.se
+nintendoswitch.com.cn
+nintendoswitch.com
+nintendoswitch.cn
