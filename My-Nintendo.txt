@@ -64,9 +64,23 @@ bcat-list-*.cdn.nintendo.net
 service-status-*.cdn.nintendo.net
 g*-*.s.n.srv.nintendo.net
 
+
+aauth-lp1.ndas.srv.nintendo.net
+accounts.nintendo.com
+atumn.hac.lp1.d4c.nintendo.net
+bcat-list-lp1.cdn.nintendo.net
+broker.lp1.npns.srv.nintendo.net
+consumer.lp1.npns.srv.nintendo.net
+dauth-lp1.ndas.srv.nintendo.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+receive-lp1.dg.srv.nintendo.net
+
+
 #Nintendo
 nintendo.*
 nintendo.*.*
+*.nintendo.*
+nintendo-*.*
 nintendo.com
 nintendo.net
 nintendo.jp
